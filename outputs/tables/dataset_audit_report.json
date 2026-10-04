@@ -1,0 +1,35 @@
+{
+  "total_patients_audited": 200,
+  "total_septic_patients": 24,
+  "patient_sepsis_prevalence_pct": 12.0,
+  "total_hourly_records": 7593,
+  "total_sepsis_positive_hours": 227,
+  "hourly_sepsis_prevalence_pct": 2.99,
+  "mean_stay_length_hours": 37.97,
+  "median_stay_length_hours": 36.5,
+  "min_stay_length_hours": 8,
+  "max_stay_length_hours": 271,
+  "vital_signs_density_pct": 67.15,
+  "lab_variables_density_pct": 4.98,
+  "demographics_density_pct": 87.67,
+  "hospital_comparison": {
+    "Hospital_A": {
+      "patients": 100,
+      "septic_patients": 14,
+      "sepsis_patient_rate_pct": 14.0,
+      "total_rows": 3704,
+      "mean_los_hours": 37.04,
+      "vital_density_pct": 65.06,
+      "lab_density_pct": 6.4
+    },
+    "Hospital_B": {
+      "patients": 100,
+      "septic_patients": 10,
+      "sepsis_patient_rate_pct": 10.0,
+      "total_rows": 3889,
+      "mean_los_hours": 38.89,
+      "vital_density_pct": 69.15,
+      "lab_density_pct": 3.62
+    }
+  }
+}

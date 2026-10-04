@@ -1,0 +1,7 @@
+{
+  "name": "Reliable Early Sepsis Prediction",
+  "description": "Reliable Early Sepsis Prediction from Sparse and Non-Stationary ICU Time-Series Using Temporal Features and Ensemble Learning",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,4 @@
+split,patient_count,patient_pct,septic_patients,patient_sepsis_prev_pct,total_hourly_rows,septic_hourly_rows,hourly_sepsis_prev_pct
+Train,140,70.0,17,12.14,5410,158,2.92
+Validation,30,15.0,4,13.33,1063,40,3.76
+Test,30,15.0,3,10.0,1120,29,2.59
